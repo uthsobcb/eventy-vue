@@ -20,8 +20,8 @@ export default {
   },
   created() {
     axios
-      .get("http://my-json-server.typicode.com/uthsobcb/eventy-vue/db")
-      .then( res => {
+      .get("http://my-json-server.typicode.com/uthsobcb/eventy-vue/events")
+      .then((res) => {
         console.log(res.data);
         this.events = res.data;
       })
