@@ -29,6 +29,17 @@
         "date": "July 22, 2022",
         "time": "11:00",
         "organizer": "Carey Wales"
+      },
+        {
+        "id": 790,
+        "category": "food",
+        "title": "Sea Food",
+        "description": "Get sea food.",
+        "location": "Playa Del Carmen",
+        "date": "July 29, 2023",
+        "time": "11:00",
+        "organizer": "Carey Wales"
       }
+
     ]
   }
